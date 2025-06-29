@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134281993297",
+    "project_id": "open-router-ai",
+    "storage_bucket": "open-router-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134281993297:android:707afb1bfccd7d7ba4ac70",
+        "android_client_info": {
+          "package_name": "com.example.gpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKEFMUJoYR2nnpRXXIm9Mir2T_L_Xzj88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
